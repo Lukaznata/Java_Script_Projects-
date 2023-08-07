@@ -5,7 +5,7 @@ Links para projetos com JS
 
 1 Tabuada = https://projects-curse-tabuada.vercel.app/
 
-2
+2 QR Code = https://projects-curse-qrcode.vercel.app/
 
 3
 
