@@ -1,4 +1,4 @@
-# Projects-curse
+# Projects
 Projects of Curse Html, Css, Js, React and Ts
 
 Links para projetos com JS
