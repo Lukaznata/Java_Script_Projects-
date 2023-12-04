@@ -7,12 +7,6 @@ Links para projetos com JS
 
 2 QR Code = https://projects-curse-qrcode.vercel.app/
 
-3
+3 Lista de Tarefas = https://projects-curse-todo.vercel.app/
 
-4
-
-5
-
-6 Lista de Tarefas = https://projects-curse-todo.vercel.app/
-
-10 Site com dark-mode = https://dark-mode-yymp.vercel.app/
+4 Site com dark-mode = https://dark-mode-yymp.vercel.app/
